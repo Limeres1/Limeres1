@@ -8,8 +8,6 @@ I am an undergraduate Computer science  student. . I love to learn and build som
 * **I am interested in Data Structures and Algorithms**
 - 🌱 I’m currently learning ...
   - Python
-- 👯 I’m looking forward to collaborate on open source projects.
-- Outside tech, 📖 I love to read novels and comics,  🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="limeresjoaquin@gmail.com">limeresjoaquin@gmail.com</a>
 
 <h4> Languages </h4>
